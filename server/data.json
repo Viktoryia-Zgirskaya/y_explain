@@ -1,0 +1,20 @@
+{
+    "bulbasaur": {
+        "id": 1,
+        "name": "bulbasaur",
+        "comments": [
+            {
+                "name": "Yana",
+                "comment": "Hello",
+                "id": 0,
+                "date": "5434"
+            },
+            {
+                "name": "Vova",
+                "comment": "Bye",
+                "id": 1,
+                "date": "47563"
+            }
+        ]
+    }
+}
